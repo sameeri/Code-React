@@ -1,0 +1,34 @@
+.Card {
+    height:150px;
+    width:200px;
+    background-color:blanchedalmond;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px gray;
+    font-family:"Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.Author{
+    float: left;
+    width: 100px;
+    border-bottom: solid chocolate;
+}
+
+.CardType{
+    float: right;
+    width: 100px;
+    border-bottom: solid chocolate;
+}
+
+.CardStack{
+
+}
+
+#card_example{
+    float: left;
+    width: 300px;
+}
+
+#card_stack_example{
+    float:left;
+}
